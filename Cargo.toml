@@ -1,0 +1,12 @@
+[package]
+license = "MIT"
+name = "desktop-cat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+evdev = "0.12"
+image = "0.25.10"
+img = "0.1.0"
+softbuffer = "0.4"
+winit = "0.30"
